@@ -1,2 +1,5 @@
 # virtual environment
 .venv
+
+# tensorboard log files
+log_dir/
