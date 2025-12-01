@@ -3,3 +3,6 @@
 
 # tensorboard log files
 log_dir/
+
+# conda environment file
+environment.yml
