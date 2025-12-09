@@ -3,3 +3,7 @@
 
 # tensorboard log files
 log_dir/
+
+# CNN Dataset Directory + txt files
+CNN/datasets/
+CNN/*.txt
