@@ -7,3 +7,9 @@ log_dir/
 # CNN Dataset Directory + txt files
 CNN/datasets/
 CNN/*.txt
+
+# Cached data files - TF Pipelines
+*.tfdata*
+
+# RNN files
+RNN/*json
