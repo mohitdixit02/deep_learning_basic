@@ -4,12 +4,13 @@
 # tensorboard log files
 log_dir/
 
-# CNN Dataset Directory + txt files
+# CNN Dataset Directory
 CNN/datasets/
-CNN/*.txt
 
 # Cached data files - TF Pipelines
 *.tfdata*
 
-# RNN files
-RNN/*json
+# Ignore json, csv and .txt files
+*json
+*csv
+*txt
